@@ -20,7 +20,6 @@ tools = [TavilySearchResults(max_results=5)]
 llm = ChatOpenAI(
     api_key="your_api_key",
     model="gpt-4",
-    temperature=0
 )
 
 prompt = ChatPromptTemplate.from_messages(
