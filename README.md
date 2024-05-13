@@ -4,6 +4,7 @@
 
 - search_agent.py: Agent able to seach web when asked questions
 - persionalized_agent.py: Agent with personalized longterm memory. Know you better! Ref: [MemGpt](https://memgpt.ai)
+- chatGPT_memory_agent.py: Agent to reproduce chatGpt persionalized memory system.
 
 ## How to Use
 
